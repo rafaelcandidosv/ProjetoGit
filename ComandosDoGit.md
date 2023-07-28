@@ -8,12 +8,7 @@
 
 5 - git push origin
 
-
-
-
-
-
-
+git push -f = Com a tag -f você irá substituir o conteúdo da branch remota pelo código que você tem no seu repositório local
 
 git init = INICIA UM REPOSITÓRIO LOCAL VAZIO "FORA" DO GITHUB.
 
